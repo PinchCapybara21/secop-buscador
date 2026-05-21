@@ -7,7 +7,7 @@ Funciones de búsqueda sobre contratos del SECOP. Soporta búsqueda por palabras
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-org/secop-buscador.git
+git clone https://github.com/PinchCapybara21/secop-buscador.git
 cd secop-buscador
 pip install -r requirements.txt
 ```
